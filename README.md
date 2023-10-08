@@ -1,17 +1,16 @@
 # astra_testscase
 
-A new Flutter project.
+This is an application for tests Astra Insurance following all instructions from the questions given, using firebase to get questions.
 
-## Getting Started
+[Demo](https://drive.google.com/file/d/1A43akSvIsKV8ItIkcf14YWeV-lFLvvdv/view?usp=sharing)
 
-This project is a starting point for a Flutter application.
+## Screenshoots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/elmoagusti2/astra_testcase/blob/main/screenshots/1.png" alt="Your Image Alt Text" width="300" height="600">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/elmoagusti2/astra_testcase/blob/main/screenshots/2.png" alt="Your Image Alt Text" width="300" height="600">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# astra_testcase
+<img src="https://github.com/elmoagusti2/astra_testcase/blob/main/screenshots/3.png" alt="Your Image Alt Text" width="300" height="600">
+
+<img src="https://github.com/elmoagusti2/astra_testcase/blob/main/screenshots/4.png" alt="Your Image Alt Text" width="300" height="600">
+
