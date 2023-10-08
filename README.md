@@ -1,6 +1,6 @@
 # astra_testscase
 
-This is an application for tests Astra Insurance following all instructions from the questions given, using firebase to get questions.
+This is an application for tests Astra Insurance following all instructions from the questions given, using rest api to get pokemons.
 
 [Demo](https://drive.google.com/file/d/1A43akSvIsKV8ItIkcf14YWeV-lFLvvdv/view?usp=sharing)
 
